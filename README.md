@@ -19,8 +19,8 @@
 
 <h3>Usage Instructions</h3>
 -To run this application you must first run the schema file using 'mysql -u <username> -p' and enter your password.<br>
--Then you must seed the database so run 'npm run seed' in a terminal.
--Then you must run either 'npm start' or 'nodemon' to start the application.
+-Then you must seed the database so run 'npm run seed' in a terminal.<br>
+-Then you must run either 'npm start' or 'nodemon' to start the application.<br>
 -Next you can check all the routes by using an API development tool like Insomnia or Postman.
 
 <h3>Video Link</h3>
