@@ -13,7 +13,9 @@
 -nodemon
 
 <h3>Screenshots</h3>
-
+![image](https://user-images.githubusercontent.com/39712161/127578116-bd2ba5b8-9d20-4532-8d3a-6be110f5a288.png)
+<br>
+![image](https://user-images.githubusercontent.com/39712161/127578155-20ca97b6-1f21-4c0f-8462-67ec326c6fcb.png)
 
 <h3>Usage Instructions</h3>
 -To run this application you must first run the schema file using 'mysql -u <username> -p' and enter your password.<br>
@@ -22,4 +24,4 @@
 -Next you can check all the routes by using an API development tool like Insomnia or Postman.
 
 <h3>Video Link</h3>
-  -
+-https://www.youtube.com/watch?v=qdkqZP7x7js
