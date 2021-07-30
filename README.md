@@ -24,4 +24,4 @@
 -Next you can check all the routes by using an API development tool like Insomnia or Postman.
 
 <h3>Video Link</h3>
--https://www.youtube.com/watch?v=qdkqZP7x7js
+-https://www.youtube.com/watch?v=pDyeb_I6Sog
